@@ -2,9 +2,21 @@
 body{
     background:pink
 }
-.border {
-   border-bottom: 4px ridge  red;
-  padding-left: 7px;
-  display: inline-block;
-  background:rgb(149, 222, 217)
+
+.border { padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    color: #97bae8;
+    background: white;
+    border: solid 2px #6091d3;
+    border-radius: 10px;
 }
+.p {padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    color: #000000;
+    background: white;
+    border: solid 2px #000000;
+    border-radius: 10px;
+}
+
