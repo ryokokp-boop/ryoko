@@ -1,4 +1,10 @@
 .lw { font-size: 120px; }
 body{
-    background:orange
+    background:pink
+}
+.border {
+   border-bottom: 4px ridge  red;
+  padding-left: 7px;
+  display: inline-block;
+  background:rgb(149, 222, 217)
 }
